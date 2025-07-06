@@ -1,0 +1,452 @@
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website is safe.
+[+] Website is safe.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website is safe.
+Traceback (most recent call last):
+  File "/home/kali/project1/moniter.py", line 23, in <module>
+    check_defacement()
+    ~~~~~~~~~~~~~~~~^^
+  File "/home/kali/project1/moniter.py", line 12, in check_defacement
+    current_hash = get_hash(file_path)
+  File "/home/kali/project1/moniter.py", line 5, in get_hash
+    with open(file_path, 'rb') as f:
+         ~~~~^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/var/www/html/index.html'
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website is safe.
+[+] Website is safe.
+[+] Website is safe.
+Traceback (most recent call last):
+  File "/home/kali/project1/moniter.py", line 23, in <module>
+    check_defacement()
+    ~~~~~~~~~~~~~~~~^^
+  File "/home/kali/project1/moniter.py", line 12, in check_defacement
+    current_hash = get_hash(file_path)
+  File "/home/kali/project1/moniter.py", line 5, in get_hash
+    with open(file_path, 'rb') as f:
+         ~~~~^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/var/www/html/index.html'
+Traceback (most recent call last):
+  File "/home/kali/project1/moniter.py", line 23, in <module>
+    check_defacement()
+    ~~~~~~~~~~~~~~~~^^
+  File "/home/kali/project1/moniter.py", line 12, in check_defacement
+    current_hash = get_hash(file_path)
+  File "/home/kali/project1/moniter.py", line 5, in get_hash
+    with open(file_path, 'rb') as f:
+         ~~~~^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/var/www/html/index.html'
+Traceback (most recent call last):
+  File "/home/kali/project1/moniter.py", line 23, in <module>
+    check_defacement()
+    ~~~~~~~~~~~~~~~~^^
+  File "/home/kali/project1/moniter.py", line 12, in check_defacement
+    current_hash = get_hash(file_path)
+  File "/home/kali/project1/moniter.py", line 5, in get_hash
+    with open(file_path, 'rb') as f:
+         ~~~~^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/var/www/html/index.html'
+Traceback (most recent call last):
+  File "/home/kali/project1/moniter.py", line 23, in <module>
+    check_defacement()
+    ~~~~~~~~~~~~~~~~^^
+  File "/home/kali/project1/moniter.py", line 12, in check_defacement
+    current_hash = get_hash(file_path)
+  File "/home/kali/project1/moniter.py", line 5, in get_hash
+    with open(file_path, 'rb') as f:
+         ~~~~^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/var/www/html/index.html'
+Traceback (most recent call last):
+  File "/home/kali/project1/moniter.py", line 23, in <module>
+    check_defacement()
+    ~~~~~~~~~~~~~~~~^^
+  File "/home/kali/project1/moniter.py", line 12, in check_defacement
+    current_hash = get_hash(file_path)
+  File "/home/kali/project1/moniter.py", line 5, in get_hash
+    with open(file_path, 'rb') as f:
+         ~~~~^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/var/www/html/index.html'
+Traceback (most recent call last):
+  File "/home/kali/project1/moniter.py", line 23, in <module>
+    check_defacement()
+    ~~~~~~~~~~~~~~~~^^
+  File "/home/kali/project1/moniter.py", line 12, in check_defacement
+    current_hash = get_hash(file_path)
+  File "/home/kali/project1/moniter.py", line 5, in get_hash
+    with open(file_path, 'rb') as f:
+         ~~~~^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/var/www/html/index.html'
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+  File "/home/kali/project1/moniter.py", line 7
+    def log_attacker():
+IndentationError: unexpected indent
+  File "/home/kali/project1/moniter.py", line 7
+    def log_attacker():
+IndentationError: unexpected indent
+  File "/home/kali/project1/moniter.py", line 7
+    def log_attacker():
+IndentationError: unexpected indent
+  File "/home/kali/project1/moniter.py", line 7
+    def log_attacker():
+IndentationError: unexpected indent
+  File "/home/kali/project1/moniter.py", line 7
+    def log_attacker():
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/home/kali/project1/moniter.py", line 31, in <module>
+    if _name_ == "_main_":
+       ^^^^^^
+NameError: name '_name_' is not defined. Did you mean: '__name__'?
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+Traceback (most recent call last):
+  File "/home/kali/project1/moniter.py", line 5, in <module>
+    import yagmail
+ModuleNotFoundError: No module named 'yagmail'
+Traceback (most recent call last):
+  File "/home/kali/project1/moniter.py", line 5, in <module>
+    import yagmail
+ModuleNotFoundError: No module named 'yagmail'
+Traceback (most recent call last):
+  File "/home/kali/project1/moniter.py", line 5, in <module>
+    import yagmail
+ModuleNotFoundError: No module named 'yagmail'
+Traceback (most recent call last):
+  File "/home/kali/project1/moniter.py", line 71, in <module>
+    if _name_ == "_main_":
+       ^^^^^^
+NameError: name '_name_' is not defined. Did you mean: '__name__'?
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
+[+] Website restored successfully.
+[!] Defacement detected. Restoring website...
+[+] Email alert sent.
