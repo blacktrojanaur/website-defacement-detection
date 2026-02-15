@@ -17,6 +17,7 @@
 [!] Defacement detected. Restoring...
 [+] Website is safe.
 [+] Website is safe.
+
 [+] Website restored successfully.
 [!] Defacement detected. Restoring...
 [+] Website is safe.
